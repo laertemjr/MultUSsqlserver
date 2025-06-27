@@ -1,7 +1,7 @@
-# MultUSfb
+# MultUSsqlserver
 
 
-Modelo de Sistema Comercial Multiusuário com o Firebird | *Multi-user Commercial System Model with Firebird*
+Modelo de Sistema Comercial Multiusuário com MS-SQL Server | *Multi-user Commercial System Model with MS-SQL Server*
 <br/>
 <br/>
 ### 🖥️ Pré-requisitos / *System requirements*
@@ -17,5 +17,5 @@ Modelo de Sistema Comercial Multiusuário com o Firebird | *Multi-user Commercia
 
 
 ### 📄 Licença / *License*
-* Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/laertemjr/MultUSfb/blob/main/LICENSE.md) para detalhes.
-* *This project is licensed under MIT License* - see the [LICENSE.md](https://github.com/laertemjr/MultUSfb/blob/main/LICENSE.md) file for details.*
+* Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/laertemjr/MultUSsqlserver/blob/main/LICENSE.md) para detalhes.
+* *This project is licensed under MIT License* - see the [LICENSE.md](https://github.com/laertemjr/MultUSsqlserver/blob/main/LICENSE.md) file for details.*
